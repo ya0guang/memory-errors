@@ -17,6 +17,7 @@ Collect snippets of different type of memory errors.
 
 ## Memory Overflow
 
+- *strcpy_overflow*: smack cannot detect an error with *--memory-safety*. I believe it works just like in *array_bound2* which cannot detect unbound array access as well
 
 
 ## Reference
